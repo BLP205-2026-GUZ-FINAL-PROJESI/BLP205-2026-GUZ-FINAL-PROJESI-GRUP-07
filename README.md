@@ -17,8 +17,8 @@ Doğuş Üniversitesi Bilgisayar Programcılığı **BLP 205 – Veri Yapıları
  
 ## Modüller
  
-| Modül | Konu | Veri yapıları / algoritmalar |
-|---|---|---|
+| Modül | Konu |
+|---|---|
 | **1** | Çift yönlü doğrusal bağlı liste (kitap kataloğu), tek yönlü dairesel bağlı liste (duyurular), dosyaya yazma ve dosyadan okuma. |
 | **2** | Bağlı liste tabanlı yığın (Stack: Push, Pop, Peek) ve kuyruk (Queue: Enqueue, Dequeue, FIFO listeleme). |
 | **3** | Dizi üzerinde Bubble Sort, Insertion Sort, Quick Sort ve Binary Search. |
